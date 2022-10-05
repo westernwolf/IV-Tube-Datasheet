@@ -9,11 +9,20 @@ Die Leitungen sind flexibel.
 Das Gewicht beträgt weniger als 30 Gramm.
 
 ### Betriebsbedingungen
-| Vibrationsbelastungen: |  |
+
+Vibrationsbelastungen:
+| | |
+| --- | --- |
 | Frequenzbereich [Hz] | 1-60 |
 | Beschleunigung [m/s^2^] ([g]), nicht mehr als | 19.2 (2) |
-| Schock-Mehrfachbelastung: |  |
+
+Schock-Mehrfachbelastung:
+| | |
+| --- | --- |
 | Beschleunigung [m/s^2^] ([g]), nicht mehr als | 147 (15) |
 | Stossdauer [ms] | 15 |
+
+| | |
+| --- | --- |
 | Umgebungstemperatur [°C] | -45 ... +70 |
 | relative Luftfeuchtigkeit bei T = +25°C [%], nicht mehr als | 98 |
