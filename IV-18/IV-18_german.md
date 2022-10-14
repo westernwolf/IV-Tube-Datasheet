@@ -80,3 +80,38 @@ Schock-Mehrfachbelastung:
 | 20 | Gitter des 6. Segment |
 | 21 | Gitter des 4. Segment |
 | 22 | Gitter des 2. Segment |
+
+### Anschluss der Segmente zur Darstellung von Zahlen und Zeichen (Typ 1)
+| Zahlen (& Zeichen)  | Anzusteuernde Pins |
+| --- | --- |
+|  0  | 12, 11 3, 5, 4, 10 |
+|  1  | 10, 4 |
+|  2  | 12, 10, 9, 5, 3 |
+|  3  | 12, 10, 9, 4, 3 |
+|  4  | 11, 9, 10, 4 |
+|  5  | 12, 11, 9, 4, 3 |
+|  6  | 12, 11, 5, 3, 4, 9 |
+|  7  | 12, 10, 4 |
+|  8  | 12, 11, 9, 4, 3, 5, 10 |
+|  9  | 9, 11, 12, 10, 4, 3 |
+| Dezimalpunkte | 2|
+| vertikaler Balken | 6 |
+| Minuszeichen | 7 |
+| Servicepunkt (grosser Punkt) | 8 |
+
+### Anschluss der Segmente zur Darstellung von Zahlen und Zeichen (Typ 2)
+| Zahlen (& Zeichen)  | Anzusteuernde Pins |
+| --- | --- |
+|  0  | 12, 11 3, 5, 4, 10 |
+|  1  | 10, 4 |
+|  2  | 12, 10, 9, 5, 3 |
+|  3  | 12, 10, 9, 4, 3 |
+|  4  | 11, 9, 10, 4 |
+|  5  | 12, 11, 9, 4, 3 |
+|  6  | 12, 11, 5, 3, 4, 9 |
+|  7  | 12, 10, 4 |
+|  8  | 12, 11, 9, 4, 3, 5, 10 |
+|  9  | 9, 11, 12, 10, 4, 3 |
+| Dezimalpunkte & Servicepunkt (grosser Punkt) | 2|
+| Minuszeichen | 9 |
+
