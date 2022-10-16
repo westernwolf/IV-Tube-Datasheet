@@ -115,3 +115,23 @@ Schock-Mehrfachbelastung:
 | Dezimalpunkte & Servicepunkt (grosser Punkt) | 2|
 | Minuszeichen | 9 |
 
+### Grundinformationen
+| | | 
+| --- | --- | 
+| Leuchtfarbe| grün|
+| Anzeigehelligkeit [cd/m^2^], min: |   |
+| -> eine digitale Ziffer | 900 |
+???| -> offizieller Rang | 200 | 
+| Heizspannung [V] | 5.0 |
+| Glimmstrom [mA] | 85+/-10 |
+| Anodensegmentspannung [V] | 50 |
+| Gesamter Anodensegmentstrom [mA]: | |
+| -> neun Ziffern für IV-18 (Typ 1) | 45 |  
+| -> acht Ziffern für IV-18 (Typ 2) | 40 |
+| Gitterspannung gepulst [V] | 50 |    
+| Gesamter Gitterstrom für 8 und 9 Segmente [mA] | 10^+10^ ????  |
+| Auslastungsgrad ???? | 10 +/- 1 |
+| Mindestbetriebsdauer [h] | 10000 |
+| Abnahme der Leucchtidichte eines Segments während der Mindestbetreibsdauer [cd
+], min. | 100 |
+| Mindesthaltbarkeit [Jahre] | 4 |
