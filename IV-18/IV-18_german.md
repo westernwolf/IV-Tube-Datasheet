@@ -121,7 +121,7 @@ Schock-Mehrfachbelastung:
 | Leuchtfarbe| grün|
 | Anzeigehelligkeit [cd/m^2^], min: |   |
 | -> eine digitale Ziffer | 900 |
-???| -> offizieller Rang | 200 | 
+| ???-> offizieller Rang | 200 | 
 | Heizspannung [V] | 5.0 |
 | Glimmstrom [mA] | 85+/-10 |
 | Anodensegmentspannung [V] | 50 |
@@ -132,6 +132,14 @@ Schock-Mehrfachbelastung:
 | Gesamter Gitterstrom für 8 und 9 Segmente [mA] | 10^+10^ ????  |
 | Auslastungsgrad ???? | 10 +/- 1 |
 | Mindestbetriebsdauer [h] | 10000 |
-| Abnahme der Leucchtidichte eines Segments während der Mindestbetreibsdauer [cd
-], min. | 100 |
+| Abnahme der Leucchtidichte eines Segments während der Mindestbetreibsdauer [cd/m^2^], min. | 100 |
 | Mindesthaltbarkeit [Jahre] | 4 |
+
+###  Maximal zulässiger elektrischer Betrieb
+| | | 
+| --- | --- | 
+| Spannang über den Glimmdraht [V] | 4.3 ... 5.5 | 
+| Höchste Spannung bei U_{a.Cer.N}=U_[c.N] = 50 V ????, [V] | 70 | 
+| Höchste gepulste Gitterspannung [V]| 70 | 
+| Höchster Anoden-Segmentstrom [mV] | 1.3 | 
+| Geringste Einschaltdauer | U_{c.N}/25 | 
