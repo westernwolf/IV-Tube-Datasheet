@@ -139,11 +139,15 @@ Schock-Mehrfachbelastung:
 | | | 
 | --- | --- | 
 | Spannang über den Glimmdraht [V] | 4.3 ... 5.5 | 
-| Höchste Spannung bei U_{a.Cer.N}=U_[c.N] = 50 V ????, [V] | 70 | 
+| Höchste Spannung bei U_{Anodensegment}=U_[Gitter] = 50 V, [V] | 70 | 
 | Höchste gepulste Gitterspannung [V]| 70 | 
 | Höchster Anoden-Segmentstrom [mV] | 1.3 | 
-| Geringste Einschaltdauer | U_{c.N}/25 | 
+| Geringste Einschaltdauer | U_{Gitter}/25 | 
 
+### Empfehlung für Verwendung
+Bei einer positiven Segmentspannung von 2.5 bis 3.0 Volt wird ein sichtbares Glühen des Segments beobachtet, wenn eine Spannung an das Gitter angelegt wird. 
+Die Drähte sollten wenn möglich nur einmal, bei einem Abstand von 0.5 bis 1.0 mm vom Glas entfernt, gebogen werden.
+Vom Betrieb der Anzeige bei zwei oder mehr Spannungen/Stömen am Maximum wird abgeraten ( ausser bei den Grenzspannungen der Anode und des Gitters).
 
 ![grösse eines Segments](Sign.png)
 !!!! add same thing for special char
