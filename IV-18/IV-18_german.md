@@ -33,17 +33,17 @@ Schock-Mehrfachbelastung:
 | Pin | Funktion/Name der Elektrode |
 | --- | --- |
 |  1 | Kathode, die leitende Schicht der inneren Oberfläche des Zylinders |
-|  2 | u~1~...u~8~ - Anoden-Segment, 1. bis 8. Segment |
-|  3 | x~1~...x~8~ - Anoden-Segment, 1. bis 8. Segment |
-|  4 | e~1~...e~8~ - Anoden-Segment, 1. bis 8. Segment |
-|  5 | r~1~...r~8~ - Anoden-Segment, 1. bis 8. Segment |
-|  6 | r~9~ - Anoden-Segment, 9. Segment |
-|  7 | s~9~ - Anoden-Segment, 9. Segment |
-|  8 | a~9~ - Anoden-Segment, 9. Segment |
-|  9 | s~1~...s~8~ - Anoden-Segment, 1. bis 8. Segment |
-| 10 | b~1~...b~8~ - Anoden-Segment, 1. bis 8. Segment |
-| 11 | o~1~...o~8~ - Anoden-Segment, 1. bis 8. Segment |
-| 12 | a~1~...a~8~ - Anoden-Segment, 1. bis 8. Segment |
+|  2 | DP<sub>1</sub>...DP<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+|  3 | D<sub>1</sub>...D<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+|  4 | C<sub>1</sub>...C<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+|  5 | E<sub>1</sub>...E<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+|  6 | E<sub>9</sub> - Anoden-Segment, 9. Segment |
+|  7 | G<sub>9</sub> - Anoden-Segment, 9. Segment |
+|  8 | A<sub>9</sub> - Anoden-Segment, 9. Segment |
+|  9 | G<sub>1</sub>...G<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+| 10 | B<sub>1</sub>...B<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+| 11 | F<sub>1</sub>...F<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+| 12 | A<sub>1</sub>...A<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
 | 13 | Kathode |
 | 14 | Gitter des 9. Segment |
 | 15 | Gitter des 1. Segment |
@@ -59,17 +59,17 @@ Schock-Mehrfachbelastung:
 | Pin | Funktion/Name der Elektrode |
 | --- | --- |
 |  1 | Kathode, die leitende Schicht der inneren Oberfläche des Zylinders |
-|  2 | u~1~...u~9~ - Anoden-Segment, 1. bis 9. Segment |
-|  3 | x~1~...x~8~ - Anoden-Segment, 1. bis 8. Segment |
-|  4 | e~1~...e~8~ - Anoden-Segment, 1. bis 8. Segment |
-|  5 | r~1~...r~8~ - Anoden-Segment, 1. bis 8. Segment |
+|  2 | DP<sub>1</sub>...DP<sub>9</sub> - Anoden-Segment, 1. bis 9. Segment |
+|  3 | D<sub>1</sub>...D<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+|  4 | C<sub>1</sub>...C<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+|  5 | E<sub>1</sub>...E<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
 |  6 | Nicht Verbunden |
 |  7 | Nicht Verbunden |
 |  8 | Nicht Verbunden |
-|  9 | s~1~...s~9~ - Anoden-Segment, 1. bis 9. Segment |
-| 10 | b~1~...b~8~ - Anoden-Segment, 1. bis 8. Segment |
-| 11 | o~1~...o~8~ - Anoden-Segment, 1. bis 8. Segment |
-| 12 | a~1~...a~8~ - Anoden-Segment, 1. bis 8. Segment |
+|  9 | G<sub>1</sub>...G<sub>9</sub> - Anoden-Segment, 1. bis 9. Segment |
+| 10 | B<sub>1</sub>...B<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+| 11 | F<sub>1</sub>...F<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
+| 12 | A<sub>1</sub>...A<sub>8</sub> - Anoden-Segment, 1. bis 8. Segment |
 | 13 | Kathode |
 | 14 | Gitter des 9. Segment |
 | 15 | Gitter des 1. Segment |
@@ -143,3 +143,7 @@ Schock-Mehrfachbelastung:
 | Höchste gepulste Gitterspannung [V]| 70 | 
 | Höchster Anoden-Segmentstrom [mV] | 1.3 | 
 | Geringste Einschaltdauer | U_{c.N}/25 | 
+
+
+![grösse eines Segments](Sign.png)
+!!!! add same thing for special char
